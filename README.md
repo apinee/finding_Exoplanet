@@ -1,4 +1,5 @@
-https://img.freepik.com/premium-photo/planets-stars-galaxies-outer-space-showing-beauty-space-exploration_374761-7763.jpg?w=900
+![Space Exploration](https://img.freepik.com/premium-photo/planets-stars-galaxies-outer-space-showing-beauty-space-exploration_374761-7763.jpg?w=900)
+
 
 # finding_Exoplanet
 Finding Exoplanet with the help of ML
