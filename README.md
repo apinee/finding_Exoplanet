@@ -12,5 +12,9 @@
 - **Tech Stack**:
   - **Libraries**: Utilized Pandas, Seaborn, Numpy, and Matplotlib for data manipulation, visualization, and statistical analysis.
   - **Machine Learning Model**: Implemented **K-Nearest Neighbors (KNN)** with a **99.02% validation accuracy** to identify the nearest stars, enabling reliable exoplanet detection.
+ 
+  - After KNN and handling the data embalance
+  - 
 
+![knn](https://github.com/user-attachments/assets/5c7dc197-9776-46ea-91d4-251e8d7e482e)
 
